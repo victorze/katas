@@ -1,0 +1,23 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./projecteuler"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorze/katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorze/katas/issues"
+  },
+  "homepage": "https://github.com/victorze/katas#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
